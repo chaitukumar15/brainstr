@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "name": "Sweet Cake",
+      "ingredients": ["Flour", "Sugar", "Butter", "Eggs", "Vanilla"],
+      "price": 15.99,
+      "desc": "A deliciously sweet cake with a rich vanilla flavor.",
+      "category": "Dessert"
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Pie",
+      "ingredients": ["Chocolate", "Flour", "Sugar", "Butter", "Cream"],
+      "price": 18.49,
+      "desc": "A rich chocolate pie with a creamy filling.",
+      "category": "Dessert"
+    },
+    {
+      "id": 3,
+      "name": "Lemon Tart",
+      "ingredients": ["Lemon", "Sugar", "Butter", "Eggs", "Flour"],
+      "price": 12.99,
+      "desc": "A tangy and refreshing lemon tart.",
+      "category": "Dessert"
+    },
+    {
+      "id": 4,
+      "name": "Carrot Cake",
+      "ingredients": ["Carrots", "Flour", "Sugar", "Eggs", "Cinnamon"],
+      "price": 17.99,
+      "desc": "A moist and spiced carrot cake with cream cheese frosting.",
+      "category": "Dessert"
+    },
+    {
+      "id": 5,
+      "name": "Vanilla Cupcake",
+      "ingredients": ["Flour", "Sugar", "Butter", "Eggs", "Vanilla"],
+      "price": 10.49,
+      "desc": "Fluffy vanilla cupcakes with buttercream frosting.",
+      "category": "Dessert"
+    },
+    {
+      "id": 6,
+      "name": "Strawberry Cheesecake",
+      "ingredients": ["Cream Cheese", "Sugar", "Strawberries", "Graham Crackers", "Butter"],
+      "price": 20.99,
+      "desc": "A rich and creamy cheesecake topped with fresh strawberries.",
+      "category": "Dessert"
+    },
+    {
+      "id": 7,
+      "name": "Peach Cobbler",
+      "ingredients": ["Peaches", "Sugar", "Flour", "Butter", "Vanilla"],
+      "price": 14.99,
+      "desc": "A warm, buttery peach cobbler with a golden crust.",
+      "category": "Dessert"
+    },
+    {
+      "id": 8,
+      "name": "Apple Pie",
+      "ingredients": ["Apples", "Sugar", "Butter", "Cinnamon", "Flour"],
+      "price": 16.99,
+      "desc": "A classic apple pie with a flaky, buttery crust.",
+      "category": "Dessert"
+    },
+    {
+      "id": 9,
+      "name": "Banana Bread",
+      "ingredients": ["Bananas", "Flour", "Sugar", "Butter", "Eggs"],
+      "price": 13.49,
+      "desc": "Moist and flavorful banana bread with a hint of vanilla.",
+      "category": "Baked Goods"
+    },
+    {
+      "id": 10,
+      "name": "Cinnamon Rolls",
+      "ingredients": ["Flour", "Sugar", "Cinnamon", "Butter", "Yeast"],
+      "price": 11.99,
+      "desc": "Soft and gooey cinnamon rolls with a sweet glaze.",
+      "category": "Baked Goods"
+    },
+    {
+      "id": 11,
+      "name": "Blueberry Muffins",
+      "ingredients": ["Flour", "Sugar", "Blueberries", "Butter", "Eggs"],
+      "price": 9.99,
+      "desc": "Fluffy blueberry muffins with a crunchy top.",
+      "category": "Baked Goods"
+    },
+    {
+      "id": 12,
+      "name": "Chocolate Chip Cookies",
+      "ingredients": ["Chocolate Chips", "Flour", "Sugar", "Butter", "Eggs"],
+      "price": 8.99,
+      "desc": "Classic chocolate chip cookies with a soft and chewy texture.",
+      "category": "Baked Goods"
+    },
+    {
+      "id": 13,
+      "name": "Raspberry Sorbet",
+      "ingredients": ["Raspberries", "Sugar", "Lemon Juice"],
+      "price": 5.99,
+      "desc": "A refreshing raspberry sorbet with a tart finish.",
+      "category": "Frozen Treats"
+    },
+    {
+      "id": 14,
+      "name": "Vanilla Ice Cream",
+      "ingredients": ["Vanilla", "Sugar", "Cream", "Milk"],
+      "price": 6.49,
+      "desc": "Smooth and creamy vanilla ice cream.",
+      "category": "Frozen Treats"
+    },
+    {
+      "id": 15,
+      "name": "Mint Chocolate Chip Ice Cream",
+      "ingredients": ["Mint", "Chocolate Chips", "Cream", "Milk"],
+      "price": 7.49,
+      "desc": "Refreshing mint ice cream with chunks of chocolate.",
+      "category": "Frozen Treats"
+    },
+    {
+      "id": 16,
+      "name": "Pineapple Sorbet",
+      "ingredients": ["Pineapple", "Sugar", "Lemon Juice"],
+      "price": 5.49,
+      "desc": "A tropical and tangy pineapple sorbet.",
+      "category": "Frozen Treats"
+    },
+    {
+      "id": 17,
+      "name": "Fudge Brownies",
+      "ingredients": ["Chocolate", "Flour", "Sugar", "Butter", "Eggs"],
+      "price": 10.99,
+      "desc": "Rich and fudgy brownies with a dense texture.",
+      "category": "Dessert"
+    },
+    {
+      "id": 18,
+      "name": "Chocolate Mousse",
+      "ingredients": ["Chocolate", "Heavy Cream", "Sugar", "Eggs"],
+      "price": 14.99,
+      "desc": "A creamy, rich chocolate mousse.",
+      "category": "Dessert"
+    },
+    {
+      "id": 19,
+      "name": "Almond Cake",
+      "ingredients": ["Almonds", "Flour", "Sugar", "Butter", "Eggs"],
+      "price": 18.99,
+      "desc": "A moist almond cake with a hint of almond extract.",
+      "category": "Dessert"
+    },
+    {
+      "id": 20,
+      "name": "Tiramisu",
+      "ingredients": ["Mascarpone", "Coffee", "Ladyfingers", "Sugar", "Cocoa"],
+      "price": 22.49,
+      "desc": "A classic Italian dessert with layers of coffee-soaked ladyfingers.",
+      "category": "Dessert"
+    },
+    {
+      "id": 21,
+      "name": "Chocolate Truffles",
+      "ingredients": ["Chocolate", "Cream", "Cocoa Powder"],
+      "price": 7.99,
+      "desc": "Decadent chocolate truffles rolled in cocoa powder.",
+      "category": "Dessert"
+    },
+    {
+      "id": 22,
+      "name": "Peanut Butter Cookies",
+      "ingredients": ["Peanut Butter", "Flour", "Sugar", "Eggs"],
+      "price": 9.49,
+      "desc": "Soft peanut butter cookies with a crisscross pattern.",
+      "category": "Baked Goods"
+    },
+    {
+      "id": 23,
+      "name": "Pumpkin Pie",
+      "ingredients": ["Pumpkin", "Sugar", "Butter", "Eggs", "Cinnamon"],
+      "price": 16.49,
+      "desc": "A smooth and spiced pumpkin pie with a flaky crust.",
+      "category": "Dessert"
+    },
+    {
+      "id": 24,
+      "name": "Chocolate Lava Cake",
+      "ingredients": ["Chocolate", "Flour", "Sugar", "Eggs", "Butter"],
+      "price": 21.99,
+      "desc": "A warm, molten chocolate cake with a gooey center.",
+      "category": "Dessert"
+    },
+    {
+      "id": 25,
+      "name": "Coconut Macaroons",
+      "ingredients": ["Coconut", "Sugar", "Egg Whites", "Vanilla"],
+      "price": 6.99,
+      "desc": "Chewy coconut macaroons with a sweet, crisp exterior.",
+      "category": "Baked Goods"
+    }
+  ]
+  
